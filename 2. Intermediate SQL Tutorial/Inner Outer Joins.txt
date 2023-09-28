@@ -1,0 +1,7 @@
+inner join 	 -> show everything that is common 
+		    between table a and b
+full outer join  -> show everything from table a and b
+left outer join  -> show everything from the left table 
+		    (table a) and that is common from right table (table b)
+right outer join -> the exact opposite from left outer 
+		    join

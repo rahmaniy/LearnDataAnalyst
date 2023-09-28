@@ -1,0 +1,9 @@
+= 	 -> equal
+<> 	 -> doesnt equal
+>, < 	 -> greter than, less than
+and 	 -> two or more statements that have to execute all
+or 	 -> two or more statements that atleast execute one
+like 	 -> hint of value that looked for
+null 	 -> null value(s)
+not null -> not null value(s)
+in 	 -> multiple equal statements

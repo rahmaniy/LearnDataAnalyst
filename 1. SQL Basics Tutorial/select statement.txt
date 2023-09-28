@@ -1,0 +1,6 @@
+* 	    -> all from table
+top 	    -> top row(s) of table
+distinct    -> unique value of table
+count 	    -> total row(s) when theres value in it
+as 	    -> naming column
+max min avg -> max min avg int value

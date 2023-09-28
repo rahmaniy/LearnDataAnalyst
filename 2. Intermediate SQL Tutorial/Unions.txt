@@ -1,0 +1,3 @@
+union 	  -> taking out and removing the duplicates 
+	     (applied just for the same total columns on both tables)
+union all -> showed the duplicates too
