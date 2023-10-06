@@ -1,0 +1,10 @@
+trim 	  -> gets rid of blank spaces on either the 
+	     front the back or the left and the right 
+	     side (so on both side)
+ltrim 	  -> only gets rid of the left side
+rtrim 	  -> only gets rid of the right side
+replace   -> replace value with another value
+substring -> specify value to take on (tha place to 
+	     start and how many char)
+upper 	  -> take all the chars and make them upper
+lower 	  -> take all the chars and make them lower
